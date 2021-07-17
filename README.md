@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StephanDHorak
 - 👀 I’m interested in ...US history
 - 🌱 I’m currently learning ...the Constitution
-- 💞️ I’m looking to collaborate on ... anything
+- 💞️ I’m looking to collaborate on ...The American way
 - 📫 How to reach me ...Email
 
 <!---
